@@ -1,2 +1,2 @@
 # 8-zhangxianan-031
-信息素养作业
+git 与 guthub 的区别
